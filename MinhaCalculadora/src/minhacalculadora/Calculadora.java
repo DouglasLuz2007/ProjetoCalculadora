@@ -16,4 +16,9 @@ public class Calculadora {
         return 3+5;
     }
     
+    public double subtrai(){
+        
+        return 100-39;
+    }
+    
 }
